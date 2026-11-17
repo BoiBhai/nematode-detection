@@ -1,11 +1,12 @@
 *.pth
 *.tiff
-models
-model_weights
-pretrained_models
-trained_models
-dataset_inema
+models/
+model_weights/
+pretrained_models/
+trained_models/
+dataset_inema/
 *.zip
+papers/
 
 
 # Byte-compiled / optimized / DLL files
